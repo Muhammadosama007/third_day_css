@@ -1,0 +1,86 @@
+.box {
+    background: #000;
+    width: 20%;
+    height: 250px;
+    min-width: 200px;
+    max-width: 1000px;
+}
+*
+{
+    background-color: rgb(159, 159, 183);
+}
+.form
+{
+    text-align: center;
+}
+label
+{
+    color: rgb(6, 6, 6);
+}
+.h1
+{
+    text-align: center;
+    padding-bottom: 20px;
+}
+input{
+    border-radius: 20px;
+}
+.fname {
+    color: rgb(11, 12, 12);
+    border-radius: 20px;
+}
+.lname
+{
+    border-radius: 20px;
+}
+.age {
+    color: rgb(11, 12, 12);
+    border-radius: 20px;
+}
+.hobby {
+    color: rgb(11, 12, 12);
+    border-radius: 20px;
+}
+.gender {
+    color: rgb(11, 12, 12);
+    border-radius: 20px;
+}
+.expertise {
+    color: rgb(11, 12, 12);
+    border-radius: 20px;
+    
+}
+.cno {
+    color: rgb(11, 12, 12);
+    border-radius: 20px;
+   
+}
+
+textarea
+{
+border-radius: 20px;
+    border: 10px solid rgb(103, 88, 88);
+}
+
+.roboto-bold {
+    font-family: "Roboto", sans-serif;
+    color: blue;
+    font-weight: 700;
+    font-style: italic;
+    text-decoration: line-through;
+    text-align: center;
+}
+input::placeholder
+{
+    color: rgb(9, 9, 10);
+}
+button {
+    color: white;
+    background: #000;
+    font-size: medium;
+    border: 10px solid rgb(75, 67, 67);
+    padding: 20px;
+    border-radius: 30px;
+    margin-top: 20px ;
+    
+}
